@@ -5,48 +5,160 @@
       "PackagePath": "staticwebassets/EMGSTORE.bundle.scp.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/animate.css",
-      "PackagePath": "staticwebassets/css/animate.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/animate.css",
+      "PackagePath": "staticwebassets/assets/css/animate.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/bootsnav.css",
-      "PackagePath": "staticwebassets/css/bootsnav.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/bootsnav.css",
+      "PackagePath": "staticwebassets/assets/css/bootsnav.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.min.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/flaticon.css",
-      "PackagePath": "staticwebassets/css/flaticon.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/flaticon.css",
+      "PackagePath": "staticwebassets/assets/css/flaticon.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/font-awesome.min.css",
-      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/assets/css/font-awesome.min.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/linearicons.css",
-      "PackagePath": "staticwebassets/css/linearicons.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/linearicons.css",
+      "PackagePath": "staticwebassets/assets/css/linearicons.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/owl.carousel.min.css",
-      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/assets/css/owl.carousel.min.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/owl.theme.default.min.css",
-      "PackagePath": "staticwebassets/css/owl.theme.default.min.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/assets/css/owl.theme.default.min.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/responsive.css",
-      "PackagePath": "staticwebassets/css/responsive.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/responsive.css",
+      "PackagePath": "staticwebassets/assets/css/responsive.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/site.css",
+      "PackagePath": "staticwebassets/assets/css/site.css"
     },
     {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/css/style.css",
-      "PackagePath": "staticwebassets/css/style.css"
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br1.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br1.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br2.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br2.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br3.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br3.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br4.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br4.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br5.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br5.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/brand/br6.png",
+      "PackagePath": "staticwebassets/assets/images/brand/br6.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/clients/c1.png",
+      "PackagePath": "staticwebassets/assets/images/clients/c1.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/clients/c2.png",
+      "PackagePath": "staticwebassets/assets/images/clients/c2.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/clients/c3.png",
+      "PackagePath": "staticwebassets/assets/images/clients/c3.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc1.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc1.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc2.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc2.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc3.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc3.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc4.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc4.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc5.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc5.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc6.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc6.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc7.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc7.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/featured-cars/fc8.png",
+      "PackagePath": "staticwebassets/assets/images/featured-cars/fc8.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/new-cars-model/ncm1.png",
+      "PackagePath": "staticwebassets/assets/images/new-cars-model/ncm1.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/new-cars-model/ncm2.png",
+      "PackagePath": "staticwebassets/assets/images/new-cars-model/ncm2.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/new-cars-model/ncm3.png",
+      "PackagePath": "staticwebassets/assets/images/new-cars-model/ncm3.png"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/images/welcome-hero/welcome-banner.jpg",
+      "PackagePath": "staticwebassets/assets/images/welcome-hero/welcome-banner.jpg"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/bootsnav.js",
+      "PackagePath": "staticwebassets/assets/js/bootsnav.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/feather.min.js",
+      "PackagePath": "staticwebassets/assets/js/feather.min.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/jquery.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/mamadou/EMGSTORE/wwwroot/assets/js/site.js",
+      "PackagePath": "staticwebassets/assets/js/site.js"
     },
     {
       "Id": "/Users/mamadou/EMGSTORE/wwwroot/favicon.ico",
@@ -131,118 +243,6 @@
     {
       "Id": "/Users/mamadou/EMGSTORE/wwwroot/fonts/glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff2"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br1.png",
-      "PackagePath": "staticwebassets/images/brand/br1.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br2.png",
-      "PackagePath": "staticwebassets/images/brand/br2.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br3.png",
-      "PackagePath": "staticwebassets/images/brand/br3.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br4.png",
-      "PackagePath": "staticwebassets/images/brand/br4.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br5.png",
-      "PackagePath": "staticwebassets/images/brand/br5.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/brand/br6.png",
-      "PackagePath": "staticwebassets/images/brand/br6.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/clients/c1.png",
-      "PackagePath": "staticwebassets/images/clients/c1.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/clients/c2.png",
-      "PackagePath": "staticwebassets/images/clients/c2.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/clients/c3.png",
-      "PackagePath": "staticwebassets/images/clients/c3.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc1.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc1.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc2.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc2.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc3.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc3.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc4.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc4.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc5.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc5.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc6.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc6.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc7.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc7.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/featured-cars/fc8.png",
-      "PackagePath": "staticwebassets/images/featured-cars/fc8.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/new-cars-model/ncm1.png",
-      "PackagePath": "staticwebassets/images/new-cars-model/ncm1.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/new-cars-model/ncm2.png",
-      "PackagePath": "staticwebassets/images/new-cars-model/ncm2.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/new-cars-model/ncm3.png",
-      "PackagePath": "staticwebassets/images/new-cars-model/ncm3.png"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/images/welcome-hero/welcome-banner.jpg",
-      "PackagePath": "staticwebassets/images/welcome-hero/welcome-banner.jpg"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/bootsnav.js",
-      "PackagePath": "staticwebassets/js/bootsnav.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/js/bootstrap.min.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/custom.js",
-      "PackagePath": "staticwebassets/js/custom.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/feather.min.js",
-      "PackagePath": "staticwebassets/js/feather.min.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/jquery.js",
-      "PackagePath": "staticwebassets/js/jquery.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/owl.carousel.min.js",
-      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
-    },
-    {
-      "Id": "/Users/mamadou/EMGSTORE/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
     },
     {
       "Id": "/Users/mamadou/EMGSTORE/wwwroot/lib/bootstrap/LICENSE",

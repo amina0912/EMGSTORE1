@@ -28,3 +28,4 @@
 /Users/mamadou/EMGSTORE/obj/Debug/net8.0/EMGSTORE.pdb
 /Users/mamadou/EMGSTORE/obj/Debug/net8.0/EMGSTORE.genruntimeconfig.cache
 /Users/mamadou/EMGSTORE/obj/Debug/net8.0/ref/EMGSTORE.dll
+/Users/mamadou/EMGSTORE/obj/Debug/net8.0/EMGSTORE.sourcelink.json
